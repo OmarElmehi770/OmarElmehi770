@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=40&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Elmehi!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=40&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Elmehi!;" />
 </div>
 
 ## 🙋‍♂️ About Me:
